@@ -1,0 +1,20 @@
+#home-container {
+  display: flex; }
+  #home-container #feed-posts {
+    width: 70%;
+    padding: 10px; }
+  #home-container #user-friends {
+    width: 30%;
+    padding: 10px;
+    border-left: 1px solid lightgrey;
+    height: 100%; }
+#home-container{
+  /* background-image: url("https://www.format.com/wp-content/uploads/New_Hi_There_Image.jpg");
+   */
+   background-image: url(https://images.unsplash.com/photo-1527176930608-09cb256ab504?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwyMjI4OTkyfHxlbnwwfHx8fHw%3D&w=1000&q=80);
+  position: relative;
+  height: 657px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
